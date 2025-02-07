@@ -1,6 +1,5 @@
 //funcion que no tiene valor
 //funcion saludar
-
 void saludar(){
   print('hola mundo');
 }
