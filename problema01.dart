@@ -1,5 +1,5 @@
 // 1 Escribe un programa que tome una lista de números enteros (int) y calcule la suma de todos sus elementos//
-
+// johana moras mat. 22308051280858//
 import 'dart:io';
 
 // Función para capturar los datos de la lista
