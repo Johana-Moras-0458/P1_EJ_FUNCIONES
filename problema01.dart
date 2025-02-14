@@ -27,7 +27,6 @@ void mostrarSuma(List<int> lista) {
 void main() {
     print('johana moras mat. 22308051280858');
     print('Escribe un programa que tome una lista de números enteros (int) y calcule la suma de todos sus elementos');
-
   // Llamamos a la función para capturar los datos
   List<int> numeros = capturarDatos();
 
